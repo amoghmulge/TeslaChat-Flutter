@@ -5,7 +5,7 @@
 
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+![Finished App](https://github.com/amoghmulge/Tesla-Chat-Flutter-/blob/master/images/animation.gif.mp4)
 
 ## What I learned
 
