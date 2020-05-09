@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87687081376",
+    "firebase_url": "https://just-chat-71455.firebaseio.com",
+    "project_id": "just-chat-71455",
+    "storage_bucket": "just-chat-71455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87687081376:android:d5b683f834830ba2f308c5",
+        "android_client_info": {
+          "package_name": "co.amogh.just_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87687081376-0jlo44h6kg52odkv04lqspgp8qku0fm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4yUp3tAezISRaY4OdPZzHcsITXrLHhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87687081376-0jlo44h6kg52odkv04lqspgp8qku0fm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
