@@ -1,5 +1,5 @@
 
-## An Android application for sending text messages in a group/personal with end to end encryption through Firebase .
+## An Android application for sending text messages in a group/private with end to end encryption through Firebase .
 
 
 
